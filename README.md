@@ -19,11 +19,11 @@ I thrive in the realm of programming, with expertise in Python and SQL. My toolk
 
 ## Experience 💼
 
-### Artificial Intelligence Engineer Intern | RadicalX | October 2022 - Current 
+### Artificial Intelligence Engineer Intern | RadicalX | October 2023 - Current 
 
 - Leveraging technologies such as OpenAI and TensorFlow to develop an AI Dev Manager, create algorithms for personalized and adaptive learning, and devise robust anti-cheat and fraud detection systems. 
 
-### Clinical Research Coordinator | Emory University | February 2022 – October 2022 
+### Clinical Research Coordinator | Emory University | February 2022 – October 2023 
 
 - Analyzed data using Excel, REDCap, and SPSS for reporting study statuses to prestigious organizations.
 - Developed over 100 data capturing instruments used in 5 studies.
