@@ -61,6 +61,6 @@ I thrive in the realm of programming, with expertise in Python and SQL. My toolk
 - **Meta | Back-End Developer | Expected April 2024**
 - **Amazon | AWS Cloud Solutions Architect | Expected April 2024**
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danneraffadzi/)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danneraffadzi/) !
 
 Let's collaborate and turn data into insights! 📊
