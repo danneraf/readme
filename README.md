@@ -47,19 +47,9 @@ I thrive in the realm of programming, with expertise in Python and SQL. My toolk
 
 ## Education 📚
 
-- **M.S. in Computer Science | Expected July 2026**
 - **Data Science Immersive | General Assembly | Received**
 - **B.S. in Biobehavioral Health | Received**
 
-## Certificates 🏆
-
-- **Microsoft | Power Platform Functional Consultant | Expected December 2023**
-- **Google | Data Analytics | Expected December 2023**
-- **Google | IT Automation with Python | Expected April 2024**
-- **Google | IT Support | Expected April 2024**
-- **Google | Project Management | Expected April 2024**
-- **Meta | Back-End Developer | Expected April 2024**
-- **Amazon | AWS Cloud Solutions Architect | Expected April 2024**
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/danneraffadzi/) !
 
